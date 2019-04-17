@@ -1,1 +1,1 @@
-# Nexter - Simple CSS Grid project tutorial by jonas.io
+# Nexter - CSS Grids Project Tutorial By Jonas.io
